@@ -5,7 +5,7 @@
 //  'programmer' and is a substring of a longer string. Note that the strings 'programmer',
 //  'grammproer', and 'prozmerqgram' are all classified as programmer strings by definition.
 //  Given a string, determine the number of indices that lie between the rightmost and leftmost
-//  programmer strings that it contains.
+//  programmer strings that it contains. (An intuitive solution without regex:D)
 //
 //  Created by Konstantin Kuchenmeister on 10/30/21.
 //
